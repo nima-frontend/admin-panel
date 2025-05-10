@@ -36,7 +36,7 @@ To try the dashboard:
 
 1. Click **Demo Credentials** on the login page.
 2. A cached session will grant you access to `/dashboard` without real authentication.
-
+<br><br>
 ![Image](https://github.com/user-attachments/assets/e68121c4-b32d-4379-9eda-4e5ef2cdf6a2)
 
 
