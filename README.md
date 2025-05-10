@@ -38,7 +38,9 @@ To try the dashboard:
 2. A cached session will grant you access to `/dashboard` without real authentication.
 
 <br>
+
 ![Image](https://github.com/user-attachments/assets/e68121c4-b32d-4379-9eda-4e5ef2cdf6a2)
+
 <br>
 
 You can customise the theme colors and layouts based on your preferences
