@@ -2,7 +2,8 @@
 
 A modern admin dashboard built with Next.js, TypeScript, and shadcn/ui.
 
-##Demo [!demo](https://admin-panel-azp2kkasl-nima-pourdads-projects.vercel.app)
+##Click the Link for Demo 
+[!Click Here](https://admin-panel-azp2kkasl-nima-pourdads-projects.vercel.app)
 
 ## Overview
 
