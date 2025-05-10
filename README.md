@@ -44,3 +44,7 @@ I've added interactivity in some cases for displaying new data on UI
 ![Image](https://github.com/user-attachments/assets/b4dcfe2a-160f-4d9b-b8a5-71e27419168d)
 
 In the settings component you can upload data that is shared along the app thanks to Zustand
+
+![Image](https://github.com/user-attachments/assets/f0ae7c38-3f3d-47dc-a2da-eea74bc7daf8)
+
+Don't miss out on this pages as well
