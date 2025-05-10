@@ -74,4 +74,4 @@ In the settings component you can upload data that is shared along the app thank
 
 <br>
 
-Don't miss out on this pages as well
+Don't miss out on these pages as well
