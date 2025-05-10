@@ -10,6 +10,7 @@ This project provides a clean foundation for admin panels and internal tools wit
 - TypeScript
 - shadcn/ui components
 - Tailwind CSS
+- React Chart js 2
 - Zustand(for state management)
 
 ## Features
