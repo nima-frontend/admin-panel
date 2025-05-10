@@ -40,3 +40,7 @@ You can customise the theme colors and layouts based on your preferences
 ![Image](https://github.com/user-attachments/assets/4aadea50-9ac2-42dd-a061-3ae9c463ff96)
 
 I've added interactivity in some cases for displaying new data on UI
+
+![Image](https://github.com/user-attachments/assets/b4dcfe2a-160f-4d9b-b8a5-71e27419168d)
+
+In the settings component you can upload data that is shared along the app thanks to Zustand
