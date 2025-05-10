@@ -29,7 +29,7 @@ This project provides a clean foundation for admin panels and internal tools wit
 - Icons: Lucide
 - State: Zustand
 
-## Manual Access
+## Manual
 
 ![Admin Panel Screenshot](https://github.com/user-attachments/assets/dabf8b85-a597-4e99-a5ce-ac3d0f192fb2)
 
