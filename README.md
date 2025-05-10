@@ -39,16 +39,23 @@ To try the dashboard:
 
 ![Image](https://github.com/user-attachments/assets/e68121c4-b32d-4379-9eda-4e5ef2cdf6a2)
 
+
 You can customise the theme colors and layouts based on your preferences
+
 
 ![Image](https://github.com/user-attachments/assets/4aadea50-9ac2-42dd-a061-3ae9c463ff96)
 
+
 I've added interactivity in some cases for displaying new data on UI
+
 
 ![Image](https://github.com/user-attachments/assets/b4dcfe2a-160f-4d9b-b8a5-71e27419168d)
 
+
 In the settings component you can upload data that is shared along the app thanks to Zustand
 
+
 ![Image](https://github.com/user-attachments/assets/f0ae7c38-3f3d-47dc-a2da-eea74bc7daf8)
+
 
 Don't miss out on this pages as well
