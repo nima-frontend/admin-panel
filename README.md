@@ -28,3 +28,5 @@ This project provides a clean foundation for admin panels and internal tools wit
 - Icons: Lucide
 - State: Zustand
 
+ ## manual
+ 
