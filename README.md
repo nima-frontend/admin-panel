@@ -30,3 +30,5 @@ This project provides a clean foundation for admin panels and internal tools wit
 
  ## manual
  ![Image](https://github.com/user-attachments/assets/dabf8b85-a597-4e99-a5ce-ac3d0f192fb2)
+
+ Make sure to click on demo credentials, I've used caching that allows the user to access /dashboard 
