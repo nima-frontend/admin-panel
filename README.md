@@ -28,10 +28,14 @@ This project provides a clean foundation for admin panels and internal tools wit
 - Icons: Lucide
 - State: Zustand
 
- ## manual
- ![Image](https://github.com/user-attachments/assets/dabf8b85-a597-4e99-a5ce-ac3d0f192fb2)
+## Manual Access
 
- Make sure to click on demo credentials, I've used caching that allows the user to access /dashboard 
+![Admin Panel Screenshot](https://github.com/user-attachments/assets/dabf8b85-a597-4e99-a5ce-ac3d0f192fb2)
+
+To try the dashboard:
+
+1. Click **Demo Credentials** on the login page.
+2. A cached session will grant you access to `/dashboard` without real authentication.
 
 ![Image](https://github.com/user-attachments/assets/e68121c4-b32d-4379-9eda-4e5ef2cdf6a2)
 
