@@ -37,3 +37,6 @@ This project provides a clean foundation for admin panels and internal tools wit
 
 You can customise the theme colors and layouts based on your preferences
 
+![Image](https://github.com/user-attachments/assets/4aadea50-9ac2-42dd-a061-3ae9c463ff96)
+
+I've added interactivity in some cases for displaying new data on UI
