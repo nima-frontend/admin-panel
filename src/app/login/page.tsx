@@ -48,6 +48,9 @@ export default function LoginPage() {
 
   return (
     <div className="w-full relative">
+      <div className="w-18 h-18 absolute left-[calc(50%-264px)] top-1/2 translate-y-1/2">
+          <img src="/point.png" alt="pointer" className="w-full h-full" />
+      </div>
       <div className="flex items-center gap-3 absolute top-4 right-4 z-10">
          <ThemeSelector />
          <ModeToggle /> 
