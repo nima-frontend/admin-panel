@@ -3,8 +3,7 @@
 A modern admin dashboard built with Next.js, TypeScript, and shadcn/ui.
 
 ## Click the Link for Demo 
-![Down Arrow](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
+🔽🔽🔽
 <a href="https://admin-panel-eight-jet.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Demo%20Project-Visit-blue?style=for-the-badge&logo=vercel" alt="Demo Project" />
 </a>
